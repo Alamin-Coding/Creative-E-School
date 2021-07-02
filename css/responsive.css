@@ -1,0 +1,462 @@
+
+
+@media (min-width: 1400px) {}
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/* Navbar Part Start */
+	.navbar-brand.logo{
+		max-width: 138px;
+	}
+	.navbar-brand.logo img{
+		width: 100%;
+	}
+	.nav-item .nav-link {
+		font-size: 15px;
+	}
+	.enroll_btn {
+		padding: 5px 10px;
+	}
+
+	/* Upcoming Seminar */
+	.upcoming_seminars {
+		margin-bottom: 40px;
+	}
+
+	/* Course Part Start */
+	.courses_item h4 {
+		font-size: 13px;
+		font-weight: 400;
+		margin-top: 20px;
+		padding-bottom: 25px;
+	}
+	.courses_item h4 span {
+		width: 49%;
+	}
+	.course_text p {
+		font-size: 15px;
+		min-height: 216px;
+	}
+	/* For Whom Part Start */
+	.whom_text_item_slider {
+		height: 269px;
+	}
+	/* Footer Part Start */
+	.footer_item.item_left a img{
+		width: 98%;
+	}
+	.footer_item .links li a {
+		font-size: 14px;
+	}
+	.contact_info ul li a {
+		font-size: 14px;
+	}
+	/* Registration Page */
+	.requirement_overly h3 {
+		font-size: 20px;
+	}
+	.requirement_overly ul li {
+		font-size: 15px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+		/* Top Bar */
+#top_bar {
+    display: none;
+}
+/* Navbar Part Start */
+.navbar-brand {
+    width: 215px;
+}
+.navbar-brand img{
+    width: 100%;
+}
+.my_bars {
+	right: 20px;
+}
+#navbar-example3{
+    text-align: right;
+    margin-right: 8px;
+}
+.nav-item .nav-link {
+	font-size: 22px;
+	display: inline-block;
+}
+.nav-item .enroll_btn {
+	display: none;
+}
+.dropdown-menu li a{
+    display: inline-block !important;
+    
+}
+
+/* Latest Information Part start */
+
+.upcoming_seminars{
+	margin-bottom: 40px;
+}
+/* About Part */
+.about_pic{
+	margin-bottom: 25px;
+}
+/* Testimonial Paer */
+.whom_text_item_slider {
+	height: 245px;
+}
+/* Story Part Satrt */
+.story_item{
+	margin-bottom: 25px;
+}
+/* Student Part Start */
+.student_item{
+	margin-bottom: 25px;
+}
+/* Our Expert Teacher Part Start */
+.teacher_btn {
+	margin-top: 8px;
+}
+/* Contact Page Start */
+.admission_form {
+	margin-bottom: 25px;
+}
+/* Registration Page */
+.margin_top{
+	margin-top: 25px;
+}
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* Top Bar */
+#top_bar {
+    display: none;
+}
+/* Navbar Part Start */
+.navbar-brand {
+    width: 215px;
+}
+.navbar-brand img{
+    width: 100%;
+}
+.my_bars {
+	right: 20px;
+}
+#navbar-example3{
+    text-align: right;
+    margin-right: 8px;
+}
+.nav-item .nav-link {
+	font-size: 22px;
+	display: inline-block;
+}
+.nav-item .enroll_btn {
+	display: none;
+}
+.dropdown-menu li a{
+    display: inline-block !important;
+    
+}
+/* Banner Part Start */
+.swiper-slide {
+	height: 220px;
+}
+.swiper-slide img{
+    height: 100%;
+}
+/* About Part */
+.course_text p {
+	min-height: auto;
+}
+/* Tastimonial Part */
+.whom_text_item_slider {
+	height: 300px;
+}
+/* Story Part */
+.story_item {
+	margin-bottom: 25px;
+}
+/* Student Part */
+.student_item {
+	margin-bottom: 25px;
+}
+.student_details {
+	width: 70%;
+	padding: 10px 0 10px 20px;
+}
+/* Footer Part */
+.footer_item h3 {
+	padding-bottom: 7px;
+}
+.footer_item .links li a {
+	font-size: 16px;
+}
+
+}
+
+
+@media (max-width: 575.98px) {
+/* Top Bar */
+#top_bar {
+	display: none;
+}
+/* Navbar Part Start */
+.navbar-brand {
+	width: 215px;
+}
+.navbar-brand img{
+	width: 100%;
+}
+.my_bars {
+	right: 20px;
+}
+#navbar-example3{
+	text-align: right;
+	margin-right: 8px;
+}
+.nav-item .nav-link {
+	font-size: 18px;
+	display: inline-block;
+}
+.nav-item .enroll_btn {
+	display: none;
+}
+.dropdown_menu {
+	width: 165px;
+}
+
+
+
+
+/* Banner Part Start */
+.swiper-slide img{
+    height: 130px;
+}
+
+/*  Latest Information Part start  */
+#seminars {
+	padding: 30px 0;
+}
+.section_heading {
+	margin-bottom: 33px;
+}
+.section_heading h2 {
+	font-size: 22px;
+}
+.section_heading p {
+	font-size: 12px;
+	margin-top: 20px;
+}
+.faq h3, .upcoming_seminars h3 {
+	font-size: 16px;
+}
+.accordion-button {
+    font-size: 12px;
+}
+.accordion-button i {
+	right: 7px;
+}
+.accordion-body p {
+	font-size: 12px;
+}
+.faq {
+	margin-top: 30px;
+}
+th, td {
+	font-size: 12px;
+}
+/*  Courses Part Start  */
+#courses {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.courses_item h4 {
+	font-size: 12px;
+    margin-top: 15px;
+	padding-bottom: 17px;
+}
+
+.courses_item p {
+	font-size: 14px;
+	line-height: 20px;
+	min-height: auto;
+}
+.courses_item a {
+	padding: 5px 20px;
+}
+.corses_btn {
+	margin-top: -10px;
+}
+.corses_btn a {
+	padding: 5px 15px;
+}
+
+
+/*  About part Start  */
+#about {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.about_text p {
+	font-size: 14px;
+}
+.about_btn {
+	margin-top: 15px;
+}
+.about_btn a {
+	padding: 5px 15px;
+	margin-right: 15px;
+}
+
+/* For Whom Part Start======= */
+#whom{
+    padding: 40px 0;
+}
+.whom_text_item_slider h3 {
+	font-size: 17px;
+}
+.whom_text_item_slider p {
+	font-size: 14px;
+}
+.whom_text_item_slider {
+	padding: 20px 10px;
+	height: 400px;
+}
+.whom_img {
+	width: 50px;
+	height: 50px;
+}
+.whom_img img {
+	width: 50px;
+	height: 50px;
+}
+.whom_slider_title_item h4 {
+	padding-top: 10px;
+	font-size: 14px;
+}
+.prev_whom {
+	line-height: 25px;
+	color: #333;
+	font-size: 15px;
+	height: 25px;
+	width: 25px;
+	left: -8px;
+	top: 34px;
+}
+.next_whom {
+	line-height: 25px;
+	color: #333;
+	font-size: 15px;
+	height: 25px;
+	width: 25px;
+	right: -8px;
+	top: 34px;
+}
+
+/*  Story Part Start ========= */
+#story {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.story_item {
+	margin-bottom: 30px;
+}
+.story_title {
+	padding: 10px 0;
+}
+.story_title h3 {
+	font-size: 15px;
+	line-height: 18px;
+}
+
+/*  Successful Students Part Start  */
+#student {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.student_item {
+	margin-bottom: 30px;
+}
+.student_details h3 {
+	font-size: 15px;
+	margin-bottom: 2px;
+}
+.student_details p {
+	font-size: 13px;
+}
+.student_details {
+	width: 86%;
+	padding: 10px 0 10px 10px;
+}
+/*  Student Feedback Part Start====  */
+#feedback {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.feedback_item {
+	padding: 15px;
+}
+.feed_text {
+	min-height: 135px;
+}
+.feed_text p {
+	font-size: 14px;
+}
+/*   Our Expert Teachers Part Start==== */
+#teachers {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.teacher_text {
+	padding: 10px 0;
+}
+.teacher_text h3 {
+	font-size: 18px;
+	padding-bottom: 3px;
+}
+.teacher_text h4 {
+	font-size: 12px;
+}
+.teacher_btn {
+	margin-top: 0;
+}
+.teacher_btn a {
+	padding: 5px 15px;
+}
+/* Footer Part Start===== */
+.footer_item h3 {
+	font-size: 22px;
+	padding-bottom: 5px;
+}
+.footer_item .links li {
+	margin-bottom: 5px;
+}
+.footer_item .links {
+	margin-top: 10px;
+}
+.footer_item .links li a {
+	font-size: 13px;
+}
+.contact_inner_text.number {
+	margin-top: 10px;
+}
+.contact_info ul li a {
+	font-size: 13px;
+}
+/* ====Registration Page==== */
+.requirement_overly{
+	padding: 25px 10px;
+	padding-right: 0;
+}
+.requirement_overly ul li {
+	font-size: 13px;
+}
+.requirement_overly ul li span {
+	margin-right: 8px;
+	font-size: 16px;
+}
+
+
+
+}
+/* XX-Large devices (larger desktops) */
+/* No media query since the xxl breakpoint has no upper bound on its width */
