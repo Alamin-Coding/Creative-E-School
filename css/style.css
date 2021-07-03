@@ -363,7 +363,7 @@ nav.navbar {
 
 }
 .dropdown_menu {
-    width: 160px;
+    width: 170px;
     background: #fff;
     border-radius: 5px;
     position: absolute;
@@ -813,7 +813,7 @@ tbody>tr>td>button:hover {
 }
 /* course detiles Part Start  */
 #courses_details{
-    background: #f5f5f5;
+    /* background: #f5f5f5; */
     padding-top: 70px;
     padding-bottom: 70px;
 }
@@ -829,8 +829,8 @@ tbody>tr>td>button:hover {
 .course_detiles_text h3,
 .course_inner_item h3{
     color: #222;
-    font-size: 24px;
-    font-weight: 400;
+    font-size: 22px;
+    font-weight: 500;
     text-transform: capitalize;
     padding-bottom: 5px;
     padding-top: 15px;
