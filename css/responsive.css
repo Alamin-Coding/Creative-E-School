@@ -442,6 +442,17 @@ th, td {
 .contact_info ul li a {
 	font-size: 13px;
 }
+/* ======Admision Page====== */
+.admiss_sub_btn .reset_btn {
+    font-size: 14px;
+    margin-right: 5px;
+    width: 125px;
+}
+.admiss_sub_btn .submit_btn {
+    font-size: 14px;
+    margin-left: 5px;
+    width: 125px;
+}
 /* ====Registration Page==== */
 .requirement_overly{
 	padding: 25px 10px;
@@ -458,5 +469,15 @@ th, td {
 
 
 }
-/* XX-Large devices (larger desktops) */
-/* No media query since the xxl breakpoint has no upper bound on its width */
+@media (max-width: 373.98px) {
+/* ======Admision Page====== */
+.condition .form-check {
+    position: relative;
+}
+.form-switch .form-check-input {
+    position: absolute;
+    left: 71px;
+    top: 3px;
+}
+}
+
