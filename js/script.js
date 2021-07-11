@@ -130,15 +130,6 @@ var swiper = new Swiper(".mySwiper", {
 
 
 
-
-
-
-// $(document).ready(function(){
-//   $('.venobox').venobox(); 
-// });
-
-/* Teacher Slider */
-
 // Reset Files
 function resetFile() {
   const file = document.querySelector('#admissionFile');

@@ -77,6 +77,9 @@
     text-align: right;
     margin-right: 8px;
 }
+#navbar-example3 .nav-item{
+    min-width: 180px;
+}
 .nav-item .nav-link {
 	font-size: 22px;
 	display: inline-block;
@@ -87,6 +90,18 @@
 .dropdown-menu li a{
     display: inline-block !important;
     
+}
+
+.dropdown_menu {
+	width: 207px;
+	position: inherit;
+	bottom: -4px;
+	right: -64%;
+	display: none;
+}
+.drop_down:hover .dropdown_menu {
+	bottom: -8px;
+	display: block;
 }
 
 /* Latest Information Part start */
