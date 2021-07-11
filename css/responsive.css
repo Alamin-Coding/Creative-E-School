@@ -78,7 +78,8 @@
     margin-right: 8px;
 }
 #navbar-example3 .nav-item{
-    min-width: 180px;
+    width: 180px;
+	margin-left: auto;
 }
 .nav-item .nav-link {
 	font-size: 22px;
@@ -96,14 +97,21 @@
 	width: 207px;
 	position: inherit;
 	bottom: -4px;
-	right: -64%;
+	left: -31%;
 	display: none;
 }
 .drop_down:hover .dropdown_menu {
 	bottom: -8px;
 	display: block;
 }
-
+#navbarSupportedContent{
+	text-align: right;
+	padding-bottom: 20px;
+	padding-right: 4px;
+}
+.enroll_btn {
+	padding: 10px 43px;
+}
 /* Latest Information Part start */
 
 .upcoming_seminars{
@@ -171,6 +179,30 @@
     display: inline-block !important;
     
 }
+
+#navbar-example3 .nav-item{
+    width: 180px;
+	margin-left: auto;
+}
+.dropdown_menu {
+	width: 207px;
+	position: inherit;
+	bottom: -4px;
+	left: -25%;
+	display: none;
+}
+.drop_down:hover .dropdown_menu {
+	bottom: -8px;
+	display: block;
+}
+#navbarSupportedContent{
+	text-align: right;
+	padding-bottom: 20px;
+	padding-right: 4px;
+}
+.enroll_btn {
+	padding: 10px 43px;
+}
 /* Banner Part Start */
 .swiper-slide {
 	height: 220px;
@@ -224,21 +256,50 @@
 .my_bars {
 	right: 20px;
 }
+
 #navbar-example3{
-	text-align: right;
-	margin-right: 8px;
+    text-align: right;
+    margin-right: 8px;
+}
+#navbar-example3 .nav-item{
+    width: 180px;
+	margin-left: auto;
 }
 .nav-item .nav-link {
-	font-size: 18px;
+	font-size: 22px;
 	display: inline-block;
 }
 .nav-item .enroll_btn {
 	display: none;
 }
-.dropdown_menu {
-	width: 165px;
+.dropdown-menu li a{
+    display: inline-block !important;
+    
 }
 
+.dropdown_menu {
+	width: 207px;
+	position: inherit;
+	bottom: -4px;
+	left: -31%;
+	display: none;
+}
+.drop_down:hover .dropdown_menu {
+	bottom: -8px;
+	display: block;
+}
+#navbarSupportedContent{
+	text-align: right;
+	padding-bottom: 20px;
+	padding-right: 4px;
+}
+.enroll_btn {
+	padding: 10px 43px;
+}
+.nav-item .nav-link {
+	font-size: 18px;
+	display: inline-block;
+}
 
 
 
