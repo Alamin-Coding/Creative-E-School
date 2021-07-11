@@ -17,6 +17,14 @@
 		padding: 5px 10px;
 	}
 
+	.drop_down:hover .dropdown_menu {
+		bottom: -88px;
+	}
+
+	.dropdown_menu {
+		bottom: -105px;
+	}
+
 	/* Upcoming Seminar */
 	.upcoming_seminars {
 		margin-bottom: 40px;
